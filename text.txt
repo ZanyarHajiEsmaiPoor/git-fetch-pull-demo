@@ -1,0 +1,6 @@
+This is a test to learn `git fetch` and `git pull`.
+Here how I want to do this practice:
+1. I make the "test.txt" file in the GitHub repository.
+2. I clone this repo to my local machine.
+3. After cloning, I make a new change to this repository on GitHub.
+4. The changes are not applied to my local machine repository yet. So, I try `git fetch` and `git pull` commands. 
